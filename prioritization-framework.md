@@ -119,39 +119,41 @@ The goals of the scoring are to identify topics with high levels of industry int
 Contained here is a markdown version of the questionnaire that can be copied into any issue and answered, the working group will add in the scoring details once reviewed.
 
 ```
-| Question | Answer |
-|----------|--------|
-| Does the feature relate to an industry streaming use-case? | Yes, No |
-| - What is the commonality of this use-case? | Uncommon, Common, Very Common |
-| - Is this an established or emerging practice? | Declining, Established, Emerging |
-| Does this feature have related mechanisms in both DASH and HLS? | Yes, No |
-| - What is the maturity of support in both specifications? | Immature Both, Mature Single, Mature Both |
-| - What is the maturity of implementation support for both specifications? | Immature Both, Mature Single, Mature Both |
-| - Are there known interoperability issues in both specifications? | No, Potentially, Yes |
-| - Has anyone implemented an interoperable solution for this? | No, Potentially, Yes |
-| - Is the feature missing in a specification with open proposals for it? | No, Yes Single, Yes Both | 
-| Has the industry defined de-facto mechanisms not present in both DASH and/or HLS? | Yes, No |
-| - Why was the functionality defined outside of the main specifications? | Unknown / N/A, Spec Invalid, Industry Desire |
-| - Has the functionality been standardized elsewhere? (DASH-IF, CTA, SVA, etc) | No, Yes |
-| - Is the functionality proprietary or openly developed? | Proprietary, Open |
-| - Could the functionality be incorporated into specifications with evangelism? | No, Yes |
+| Question | Answer | Points |
+|----------|--------|--------|
+| Does the feature relate to an industry streaming use-case? | Yes, No | - |
+| - What is the commonality of this use-case? | Uncommon, Common, Very Common | # |
+| - Is this an established or emerging practice? | Declining, Established, Emerging | # |
+| Does this feature have related mechanisms in both DASH and HLS? | Yes, No | - |
+| - What is the maturity of support in both specifications? | Immature Both, Mature Single, Mature Both | # |
+| - What is the maturity of implementation support for both specifications? | Immature Both, Mature Single, Mature Both | # |
+| - Are there known interoperability issues in both specifications? | No, Potentially, Yes | # |
+| - Has anyone implemented an interoperable solution for this? | No, Potentially, Yes | # |
+| - Is the feature missing in a specification with open proposals for it? | No, Yes Single, Yes Both | # |
+| Has the industry defined de-facto mechanisms not present in both DASH and/or HLS? | Yes, No | - |
+| - Why was the functionality defined outside of the main specifications? | Unknown / N/A, Spec Invalid, Industry Desire | # |
+| - Has the functionality been standardized elsewhere? (DASH-IF, CTA, SVA, etc) | No, Yes | # |
+| - Is the functionality proprietary or openly developed? | Proprietary, Open | # |
+| - Could the functionality be incorporated into specifications with evangelism? | No, Yes | # |
+| | **Total Score** | ## |
 ```
 
 Rendered view:
 
-| Question | Answer |
-|----------|--------|
-| Does the feature relate to an industry streaming use-case? | Yes, No |
-| - What is the commonality of this use-case? | Uncommon, Common, Very Common |
-| - Is this an established or emerging practice? | Declining, Established, Emerging |
-| Does this feature have related mechanisms in both DASH and HLS? | Yes, No |
-| - What is the maturity of support in both specifications? | Immature Both, Mature Single, Mature Both |
-| - What is the maturity of implementation support for both specifications? | Immature Both, Mature Single, Mature Both |
-| - Are there known interoperability issues in both specifications? | No, Potentially, Yes |
-| - Has anyone implemented an interoperable solution for this? | No, Potentially, Yes |
-| - Is the feature missing in a specification with open proposals for it? | No, Yes Single, Yes Both | 
-| Has the industry defined de-facto mechanisms not present in both DASH and/or HLS? | Yes, No |
-| - Why was the functionality defined outside of the main specifications? | Unknown / N/A, Spec Invalid, Industry Desire |
-| - Has the functionality been standardized elsewhere? (DASH-IF, CTA, SVA, etc) | No, Yes |
-| - Is the functionality proprietary or openly developed? | Proprietary, Open |
-| - Could the functionality be incorporated into specifications with evangelism? | No, Yes |
+| Question | Answer | Points |
+|----------|--------|--------|
+| Does the feature relate to an industry streaming use-case? | Yes, No | - |
+| - What is the commonality of this use-case? | Uncommon, Common, Very Common | # |
+| - Is this an established or emerging practice? | Declining, Established, Emerging | # |
+| Does this feature have related mechanisms in both DASH and HLS? | Yes, No | - |
+| - What is the maturity of support in both specifications? | Immature Both, Mature Single, Mature Both | # |
+| - What is the maturity of implementation support for both specifications? | Immature Both, Mature Single, Mature Both | # |
+| - Are there known interoperability issues in both specifications? | No, Potentially, Yes | # |
+| - Has anyone implemented an interoperable solution for this? | No, Potentially, Yes | # |
+| - Is the feature missing in a specification with open proposals for it? | No, Yes Single, Yes Both | # |
+| Has the industry defined de-facto mechanisms not present in both DASH and/or HLS? | Yes, No | - |
+| - Why was the functionality defined outside of the main specifications? | Unknown / N/A, Spec Invalid, Industry Desire | # |
+| - Has the functionality been standardized elsewhere? (DASH-IF, CTA, SVA, etc) | No, Yes | # |
+| - Is the functionality proprietary or openly developed? | Proprietary, Open | # |
+| - Could the functionality be incorporated into specifications with evangelism? | No, Yes | # |
+| | **Total Score** | ## |
